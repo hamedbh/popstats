@@ -1,7 +1,7 @@
 Package: popstats
 Type: Package
 Title: Calculate Population Statistics in R
-Version: 0.1.0.9000
+Version: 0.1.0
 Authors@R: person(given = "Hamed", 
                   family = "Bastan-Hagh", 
                   email = "hamed@bastanhagh.com", 
