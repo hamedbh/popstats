@@ -1,6 +1,7 @@
 # popstats
 
 <!-- badges: start -->
+[![Build Status](https://travis-ci.org/hamedbh/popstats.svg?branch=master)](https://travis-ci.org/hamedbh/popstats)
 <!-- badges: end -->
 
 The default `var()` and `sd()` R functions calculate the sample variance and standard deviation. But what if you want the population variance or standard deviation? Say hello to `{popstats}`!
