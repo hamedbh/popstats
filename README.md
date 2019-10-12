@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![Build Status](https://travis-ci.org/hamedbh/popstats.svg?branch=master)](https://travis-ci.org/hamedbh/popstats)
-[![Codecov test coverage](https://codecov.io/gh/hamedbh/popstats/branch/master/graph/badge.svg)](https://codecov.io/gh/hamedbh/popstats?branch=master)
+[![codecov](https://codecov.io/gh/hamedbh/popstats/branch/master/graph/badge.svg)](https://codecov.io/gh/hamedbh/popstats)
 [![CRAN status](https://www.r-pkg.org/badges/version/popstats)](https://CRAN.R-project.org/package=popstats)
 <!-- badges: end -->
 
