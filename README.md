@@ -3,17 +3,18 @@
 <!-- badges: start -->
 [![Build Status](https://travis-ci.org/hamedbh/popstats.svg?branch=master)](https://travis-ci.org/hamedbh/popstats)
 [![codecov](https://codecov.io/gh/hamedbh/popstats/branch/master/graph/badge.svg)](https://codecov.io/gh/hamedbh/popstats)
-[![CRAN status](https://www.r-pkg.org/badges/version/popstats)](https://CRAN.R-project.org/package=popstats)
 <!-- badges: end -->
 
 The default `var()` and `sd()` R functions calculate the sample variance and standard deviation. But what if you want the population variance or standard deviation? Say hello to `{popstats}`!
 
 ## Installation
 
-You can install the released version of popstats from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of popstats from [GitHub](https://github.com/hamedbh/popstats) with:
 
 ``` r
-install.packages("popstats")
+# install {remotes} package if not available
+# install.packages("remotes")
+remotes::install_github(repo = "hamedbh/popstats")
 ```
 
 ## Example
